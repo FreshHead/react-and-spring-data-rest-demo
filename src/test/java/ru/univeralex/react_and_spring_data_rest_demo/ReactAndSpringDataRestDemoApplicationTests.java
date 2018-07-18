@@ -1,4 +1,4 @@
-package ru.univeralex.reactandspringdatarestdemo;
+package ru.univeralex.react_and_spring_data_rest_demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
